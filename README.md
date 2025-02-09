@@ -1,2 +1,2 @@
 
-Pstman uygulamasından açarak oluşturulan Collection inceleneilir. 
+Postman uygulamasından açarak oluşturulan Collectionı inceleyebilirsiniz.
